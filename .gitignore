@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+.supabase/
+# ملف الإعداد المحلي — يحتوي على المفاتيح الفعلية، لا يُرفع على Git
+_runtime-config.js
+*.local.js
